@@ -1,1 +1,2 @@
-# sygma_paper
+# Christian Ritter and the NuGrid collaboration
+# All rights reserved...
